@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+hr {
+    margin: 0;
+    padding: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+/* setting up images next to each other */
+.first_images {
+    display: inline-block;
+}
+
+/* centering images */
+#intro_images {
+    text-align: center;
+}
+
+/* centering container and setting height and width */
+
+#carousel_container {
+    text-align: center;
+}
+
+#carousel_image{
+    height: 400px;
+    width: 600px;
+}
+
+/* setting up background color for first div container */
+
+#intro_container {
+    background-color: #d3e0ea;
+}
+
+#body_container {
+    background-color: #1687a7;
+}
+
+#media_container {
+    background-color: #d3e0ea;
+}
